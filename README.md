@@ -1,14 +1,14 @@
 # Frontend-List
 ## Design
 
-### Colors
+## Colors
 - [Ui Gradients](https://uigradients.com/#Aqualicious).
 - [Ui Gradients](https://uigradients.com/#Aqualicious).
 - [Color Palette - Mycolor](https://mycolor.space/?hex=%23845EC2&sub=1).
 - [Color Palette - Colormind](http://colormind.io/).
 - [Color Palette - Coolors](https://coolors.co/390099-9e0059-ff0054-ff5400-ffbd00).
 
-### Stock Images
+## Stock Images
 - [Unsplash](https://unsplash.com/).
 - [Pixavay](https://pixabay.com/).
 - [Burst Shopify](https://burst.shopify.com//).
