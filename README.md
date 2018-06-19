@@ -16,8 +16,12 @@
 - [CSS Animations - AngryTools](http://angrytools.com/css/animation/).
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist).
 - [Guide to <head> elements](https://gethead.info/).
+ - [Check if the site is responsive & and take pictures](http://ami.responsivedesign.is/#).
 
 ### Website performance 
+- [Google Pagespeed](https://developers.google.com/speed/pagespeed/insights/).
+- [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/).
+- [Gzip compression test](https://varvy.com/tools/gzip/).
 
 ### Learn 
 - [CSS fundamentals](http://learnlayout.com/).
