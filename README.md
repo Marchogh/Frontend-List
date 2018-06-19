@@ -59,5 +59,12 @@
 
 
 ## Learn 
+- [Github student pack](https://education.github.com/pack/offers).
+- [Eloquent JavaScript - Book](http://eloquentjavascript.net/).
+- [Front-End Developer Handbook 2018](https://legacy.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details
+).
+#### HTML & CSS
+- [Mozilla CSS Grid playground](https://mozilladevelopers.github.io/playground/css-grid/).
+- [Learn CSS Grid - Grid Garden game](https://cssgridgarden.com/).
+- [Guide Sustainable HTML and CSS](http://codeguide.co/).
 - [CSS fundamentals](http://learnlayout.com/).
-
