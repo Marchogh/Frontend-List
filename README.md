@@ -11,13 +11,18 @@
 ### Mockups 
 - [Mockupworld](https://www.mockupworld.co/free/tag/animated/).
 
+### Icons / Patterns
+- [Textures - Freepik](https://www.freepik.com/free-vectors/textures).
+- [Patterns background](https://www.toptal.com/designers/subtlepatterns/).
+- [Hero SVG patterns](http://www.heropatterns.com/).
+
 ## Online Tools
 - [CSS Animations - Animista](http://animista.net/).
 - [CSS Animations - AngryTools](http://angrytools.com/css/animation/).
 - [SVG Animations](https://www.svgator.com/).
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist).
 - [Guide to <head> elements](https://gethead.info/).
- - [Check if the site is responsive & and take pictures](http://ami.responsivedesign.is/#).
+- [Check if the site is responsive & and take pictures](http://ami.responsivedesign.is/#).
 
 ## Website performance 
 - [Google Pagespeed](https://developers.google.com/speed/pagespeed/insights/).
@@ -39,4 +44,5 @@
 - [web font combinations](http://typespiration.com/).
 - [Social development environment](https://codepen.io/).
 - [CSS web trends](https://tympanus.net/codrops/).
+- [Design inspiration - Dribble](https://dribbble.com/).
 
