@@ -1,14 +1,14 @@
 # Frontend-List
 ## Design
 
-## Colors
+### Colors
 - [Ui Gradients](https://uigradients.com/#Aqualicious).
 - [Ui Gradients](https://uigradients.com/#Aqualicious).
 - [Color Palette - Mycolor](https://mycolor.space/?hex=%23845EC2&sub=1).
 - [Color Palette - Colormind](http://colormind.io/).
 - [Color Palette - Coolors](https://coolors.co/390099-9e0059-ff0054-ff5400-ffbd00).
 
-## Stock Images
+### Stock Images
 - [Unsplash](https://unsplash.com/).
 - [Pixavay](https://pixabay.com/).
 - [Burst Shopify](https://burst.shopify.com//).
@@ -16,10 +16,10 @@
 - [Stocksnap](https://stocksnap.io/).
 - [Video covers](https://coverr.co/).
 
-#### Mockups 
+### Mockups 
 - [Mockupworld Animated](https://www.mockupworld.co/free/tag/animated/).
 
-#### Icons / Patterns
+### Icons / Patterns
 - [Textures - Freepik](https://www.freepik.com/free-vectors/textures).
 - [Patterns background](https://www.toptal.com/designers/subtlepatterns/).
 - [Hero SVG patterns](http://www.heropatterns.com/).
@@ -27,7 +27,7 @@
 - [Icons - Flaticon](https://www.flaticon.com/).
 - [Icon - Library](https://fontawesome.com/).
 
-### Online Tools
+## Online Tools
 - [CSS Animations - Animista](http://animista.net/).
 - [CSS Animations - AngryTools](http://angrytools.com/css/animation/).
 - [SVG Animations](https://www.svgator.com/).
@@ -35,7 +35,7 @@
 - [Guide to <head> elements](https://gethead.info/).
 - [Check if the site is responsive & and take pictures](http://ami.responsivedesign.is/#).
 
-### Website performance 
+## Website performance 
 - [Google Pagespeed](https://developers.google.com/speed/pagespeed/insights/).
 - [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/).
 - [Gzip compression test](https://varvy.com/tools/gzip/).
@@ -44,11 +44,11 @@
 - [Compress images - Compressor.io](https://compressor.io/).
 - [Compress images - Tinypng](https://tinypng.com/).
 
-### SEO 
+## SEO 
  - [Vary SEO Tool](https://varvy.com/).
  - [SEO site checkup](https://seositecheckup.com). 
 
-### Inspiration / Blogs 
+## Inspiration / Blogs 
 - [Html templates](https://www.makeuseof.com/tag/css-template-sites-dont-start-scratch/).
 - [web font combinations](http://typespiration.com/).
 - [Social development environment](https://codepen.io/).
@@ -63,7 +63,7 @@
 - [Eloquent JavaScript - Book](http://eloquentjavascript.net/).
 - [Front-End Developer Handbook 2018](https://legacy.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details
 ).
-#### HTML & CSS
+### HTML & CSS
 - [Mozilla CSS Grid playground](https://mozilladevelopers.github.io/playground/css-grid/).
 - [Learn CSS Grid - Grid Garden game](https://cssgridgarden.com/).
 - [Guide Sustainable HTML and CSS](http://codeguide.co/).
