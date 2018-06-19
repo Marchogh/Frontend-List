@@ -17,7 +17,7 @@
 - [Video covers](https://coverr.co/).
 
 ### Mockups 
-- [Mockupworld](https://www.mockupworld.co/free/tag/animated/).
+- [Mockupworld Animated](https://www.mockupworld.co/free/tag/animated/).
 
 ### Icons / Patterns
 - [Textures - Freepik](https://www.freepik.com/free-vectors/textures).
