@@ -3,7 +3,8 @@
 
 ### Colors
 - [Ui Gradients](https://uigradients.com/#Aqualicious).
-- [Color Palette](https://mycolor.space/?hex=%23845EC2&sub=1).
+- [Color Palette - Mycolor](https://mycolor.space/?hex=%23845EC2&sub=1).
+- [Color Palette - Colormind](http://colormind.io/).
 
 ### Images
 - [Ui Gradients](https://uigradients.com/#Aqualicious).
@@ -15,6 +16,7 @@
 - [Textures - Freepik](https://www.freepik.com/free-vectors/textures).
 - [Patterns background](https://www.toptal.com/designers/subtlepatterns/).
 - [Hero SVG patterns](http://www.heropatterns.com/).
+- [Icons pack - Iconfinder](https://www.iconfinder.com/icon-sets/featured/free).
 
 ## Online Tools
 - [CSS Animations - Animista](http://animista.net/).
@@ -31,10 +33,6 @@
 - [Vary Pagespeed](https://varvy.com/pagespeed/).
 - [Pingdom Speed test](https://tools.pingdom.com/).
 
-
-## Learn 
-- [CSS fundamentals](http://learnlayout.com/).
-
 ## SEO 
  - [Vary SEO Tool](https://varvy.com/).
  - [SEO site checkup](https://seositecheckup.com). 
@@ -45,4 +43,7 @@
 - [Social development environment](https://codepen.io/).
 - [CSS web trends](https://tympanus.net/codrops/).
 - [Design inspiration - Dribble](https://dribbble.com/).
+
+## Learn 
+- [CSS fundamentals](http://learnlayout.com/).
 
