@@ -15,6 +15,7 @@
 - [CSS Animations - Animista](http://animista.net/).
 - [CSS Animations - AngryTools](http://angrytools.com/css/animation/).
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist).
+- [Guide to <head> elements](https://gethead.info/).
 
 ### Website performance 
 
