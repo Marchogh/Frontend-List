@@ -2,4 +2,4 @@
 ## Design
 
 ### Colors
-- UiGradients[Link(https://uigradients.com/#Aqualicious)]
+- UiGradients[Link](https://uigradients.com/#Aqualicious).
