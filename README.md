@@ -11,7 +11,7 @@
 ### Mockups 
 - [Mockupworld](https://www.mockupworld.co/free/tag/animated/).
 
-### Online Tools
+## Online Tools
 - [CSS Animations - Animista](http://animista.net/).
 - [CSS Animations - AngryTools](http://angrytools.com/css/animation/).
 - [SVG Animations](https://www.svgator.com/).
@@ -19,7 +19,7 @@
 - [Guide to <head> elements](https://gethead.info/).
  - [Check if the site is responsive & and take pictures](http://ami.responsivedesign.is/#).
 
-### Website performance 
+## Website performance 
 - [Google Pagespeed](https://developers.google.com/speed/pagespeed/insights/).
 - [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/).
 - [Gzip compression test](https://varvy.com/tools/gzip/).
@@ -27,14 +27,14 @@
 - [Pingdom Speed test](https://tools.pingdom.com/).
 
 
-### Learn 
+## Learn 
 - [CSS fundamentals](http://learnlayout.com/).
 
-### SEO 
+## SEO 
  - [Vary SEO Tool](https://varvy.com/).
  - [SEO site checkup](https://seositecheckup.com). 
 
-### Inspiration 
+## Inspiration 
 - [Html templates](https://www.makeuseof.com/tag/css-template-sites-dont-start-scratch/).
 - [web font combinations](http://typespiration.com/).
 - [Social development environment](https://codepen.io/).
