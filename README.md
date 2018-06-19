@@ -1,5 +1,5 @@
 # Frontend-List
-##Design
+## Design
 
-###Colors
--UiGradients[Link(https://uigradients.com/#Aqualicious)]
+### Colors
+- UiGradients[Link(https://uigradients.com/#Aqualicious)]
