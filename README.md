@@ -6,11 +6,11 @@
 ## Contents
 
 - :diamonds: [Design](#design)
-- :globe_with_meridians: [Online Tools](#online-Tools)
+- :computer: [Online Tools](#online-Tools)
 - :floppy_disk: [Website Performance](#website-performance)
 - :wrench: [SEO](#seo)
-- [Inspiration / Blogs ](#inspiration/blogs)
-- :books: [Learn](#learn)
+- :books [Inspiration / Blogs ](#inspiration/blogs)
+- :school: [Learn](#learn)
 - :microphone: [Podcasts](#podcasts) 
 
 
