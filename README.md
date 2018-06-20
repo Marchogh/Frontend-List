@@ -53,7 +53,7 @@
 ## Inspiration / Blogs 
 - [Html templates](https://www.makeuseof.com/tag/css-template-sites-dont-start-scratch/).
 - [web font combinations](http://typespiration.com/).
-- [Font Pair helps you pair Google Fonts together](https://fontpair.co/).https://fontpair.co/
+- [Font Pair helps you pair Google Fonts together](https://fontpair.co/).
 - [Social development environment](https://codepen.io/).
 - [CSS web trends](https://tympanus.net/codrops/).
 - [Design inspiration - Dribble](https://dribbble.com/).
