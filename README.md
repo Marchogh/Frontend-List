@@ -9,7 +9,7 @@
 - :computer: [Online Tools](#online-tools)
 - :floppy_disk: [Website Performance](#website-performance)
 - :wrench: [SEO](#seo)
-- :books: [Inspiration / Blogs ](#inspiration&blogs)
+- :books: [Inspiration / Blogs ](#inspiration-&-blogs)
 - :mortar_board: [Learn](#learn)
 - :microphone: [Podcasts](#podcasts) 
 
@@ -51,6 +51,7 @@
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist).
 - [Guide to <head> elements](https://gethead.info/).
 - [Check if the site is responsive & and take pictures](http://ami.responsivedesign.is/#).
+- [Collection of useful CSS snippets ](https://atomiks.github.io/30-seconds-of-css/#dynamic-shadow)
 
 
 ## Website Performance 
