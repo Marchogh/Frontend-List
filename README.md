@@ -8,10 +8,10 @@
 - [Design](#design)
 - [Online Tools](#online-Tools)
 - [Website Performance](#website-performance)
-- [SEO](#SEO)
-- [Inspiration / Blogs ](#inspiration / blogs)
+- [SEO](#seo)
+- [Inspiration / Blogs ](#inspiration/blogs)
 - [Learn](#learn)
-- [Podcasts](#podcasts)
+- :microphone: - [Podcasts](#podcasts)
 
 
 ## Design
@@ -109,6 +109,6 @@
 - [List of Web Development Podcasts](https://player.fm/featured/web-development).
 - [Boagworld UX Show](https://boagworld.com/show/).
 - [CodePen Radio](https://blog.codepen.io/radio/).
-- [Frontend Happy Hour(http://frontendhappyhour.com/).
+- [Frontend Happy Hour](http://frontendhappyhour.com/).
 
 
