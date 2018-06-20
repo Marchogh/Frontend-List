@@ -53,11 +53,12 @@
 ## Inspiration / Blogs 
 - [Html templates](https://www.makeuseof.com/tag/css-template-sites-dont-start-scratch/).
 - [web font combinations](http://typespiration.com/).
+- [Font Pair helps you pair Google Fonts together](https://fontpair.co/).https://fontpair.co/
 - [Social development environment](https://codepen.io/).
 - [CSS web trends](https://tympanus.net/codrops/).
 - [Design inspiration - Dribble](https://dribbble.com/).
 - [Good UI](https://goodui.org/).
-- [Style Guide Resources](http://styleguides.io/).
+- [Good Web Designs](http://www.goodweb.design/).
 
 
 ## Learn 
@@ -79,6 +80,10 @@
 - [Learn CSS Grid - Grid Garden game](https://cssgridgarden.com/).
 - [Guide Sustainable HTML and CSS](http://codeguide.co/).
 - [CSS fundamentals](http://learnlayout.com/).
+
+#### Design
+- [Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886).
+- [Style Guide Resources](http://styleguides.io/).
 
 ## Podcasts  
 
