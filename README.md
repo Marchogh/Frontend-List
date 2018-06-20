@@ -31,6 +31,8 @@
 
 #### Mockups 
 - [Mockupworld Animated](https://www.mockupworld.co/free/tag/animated/).
+- [Mockup Graphics - Freepik](https://www.freepik.com/free-photos-vectors/mockup).
+- [Mockup Freebies for Creatives](https://freedesignresources.net/).
 
 #### Icons / Patterns
 - [Textures - Freepik](https://www.freepik.com/free-vectors/textures).
