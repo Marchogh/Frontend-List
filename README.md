@@ -1,8 +1,17 @@
 # Frontend-List
+
+## Contents
+
+- [Design](#design)
+- [Online Tools](#Online Tools)
+- [Website Performance](#sass)
+- [SEO](#js)
+- [Inspiration / Blogs ](#css-js)
+- [Learn](#icons-svg)
+- [Podcasts](#ux-design)
+
+
 ## Design
-
-- :books:
-
 #### Colors
 - [Ui Gradients](https://uigradients.com/#Aqualicious).
 - [Ui Gradients](https://uigradients.com/#Aqualicious).
@@ -41,7 +50,7 @@
 - [Check if the site is responsive & and take pictures](http://ami.responsivedesign.is/#).
 
 
-## Website performance 
+## Website Performance 
 - [Google Pagespeed](https://developers.google.com/speed/pagespeed/insights/).
 - [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/).
 - [Gzip compression test](https://varvy.com/tools/gzip/).
@@ -72,6 +81,7 @@
 - [Eloquent JavaScript - Book](http://eloquentjavascript.net/).
 - [Front-End Developer Handbook 2018](https://legacy.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details
 ).
+- [Video Screencasts Watch & Learn - CSS Tricks](https://css-tricks.com/video-screencasts/).
 
 #### News / Blog
 - [Smashingmagazine](https://www.smashingmagazine.com/the-smashing-newsletter/).
@@ -94,5 +104,8 @@
 - [ShopTalk - Front end web design, development and UX ](https://player.fm/series/shoptalk-19036).https://player.fm/series/shoptalk-19036
 - [TheWebAHead - Jen Simmons](http://thewebahead.net/).
 - [List of Web Development Podcasts](https://player.fm/featured/web-development).
+- [Boagworld UX Show](https://boagworld.com/show/).
+- [CodePen Radio](https://blog.codepen.io/radio/).
+- [Frontend Happy Hour(http://frontendhappyhour.com/).
 
 
