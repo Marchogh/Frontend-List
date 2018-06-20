@@ -1,17 +1,17 @@
 <h1 align="center">
     Frontend-List
 </h1>
-<hr/>
+
 
 ## Contents
 
 - [Design](#design)
-- [Online Tools](#Online-Tools)
-- [Website Performance](#Website-Performance)
+- [Online Tools](#online-Tools)
+- [Website Performance](#website-performance)
 - [SEO](#SEO)
-- [Inspiration / Blogs ](#Inspiration / Blogs)
-- [Learn](#Learn)
-- [Podcasts](#Podcasts)
+- [Inspiration / Blogs ](#inspiration / blogs)
+- [Learn](#learn)
+- [Podcasts](#podcasts)
 
 
 ## Design
