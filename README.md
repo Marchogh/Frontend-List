@@ -114,4 +114,14 @@
 - [CodePen Radio](https://blog.codepen.io/radio/).
 - [Frontend Happy Hour](http://frontendhappyhour.com/).
 
+## Libraries
+
+- [Easy Scroll Animations - JS](https://github.com/jlmakes/scrollreveal).
+- [Upload Library - JS](https://github.com/pqina/filepond).
+- [Drive the user's focus across the page - JS](https://github.com/kamranahmedse/driver.js).
+- [Powered Hover Effects - CSS](http://ianlunn.github.io/Hover/).
+- [CSS Animate - CSS](https://daneden.github.io/animate.css/).
+- [CSS Reset - CSS](http://necolas.github.io/normalize.css/).
+
+
 
