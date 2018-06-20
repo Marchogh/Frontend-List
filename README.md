@@ -11,7 +11,7 @@
 - [SEO](#seo)
 - [Inspiration / Blogs ](#inspiration/blogs)
 - [Learn](#learn)
-- :microphone: - [Podcasts](#podcasts)
+- [Podcasts](#podcasts) :microphone:
 
 
 ## Design
