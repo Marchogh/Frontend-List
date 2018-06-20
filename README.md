@@ -5,14 +5,14 @@
 
 ## Contents
 
-- :hearts:   [Design](#design)
+- :hearts: [Design](#design)
 - :computer: [Online Tools](#online-tools)
 - :floppy_disk: [Website Performance](#website-performance)
 - :wrench: [SEO](#seo)
 - :books: [Inspiration / Blogs ](#inspiration)
 - :mortar_board: [Learn](#learn)
 - :microphone: [Podcasts](#podcasts) 
-- :statue_of_liberty:   [Libraries](#libraries) 
+- :statue_of_liberty: [Libraries](#libraries) 
 
 
 ## Design
