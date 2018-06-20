@@ -88,5 +88,8 @@
 - [Style Guide Resources](http://styleguides.io/).
 
 ## Podcasts  
+- [Podcast for Web Developers - Syntax.fm](https://syntax.fm/).
+- [ShopTalk - Front end web design, development and UX ](https://player.fm/series/shoptalk-19036).https://player.fm/series/shoptalk-19036
+- [TheWebAHead - Jen Simmons](http://thewebahead.net/).
 
 
