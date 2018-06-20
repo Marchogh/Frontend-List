@@ -9,7 +9,7 @@
 - :computer: [Online Tools](#online-Tools)
 - :floppy_disk: [Website Performance](#website-performance)
 - :wrench: [SEO](#seo)
-- :books: [Inspiration / Blogs ](#inspiration/blogs)
+- :books: [Inspiration / Blogs ](#inspiration-/-blogs)
 - :mortar_board: [Learn](#learn)
 - :microphone: [Podcasts](#podcasts) 
 
