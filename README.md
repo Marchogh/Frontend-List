@@ -28,12 +28,14 @@
 - [Icon - Library](https://fontawesome.com/).
 
 ## Online Tools
+- [CSS Gradient](https://cssgradient.io/).
 - [CSS Animations - Animista](http://animista.net/).
 - [CSS Animations - AngryTools](http://angrytools.com/css/animation/).
 - [SVG Animations](https://www.svgator.com/).
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist).
 - [Guide to <head> elements](https://gethead.info/).
 - [Check if the site is responsive & and take pictures](http://ami.responsivedesign.is/#).
+
 
 ## Website performance 
 - [Google Pagespeed](https://developers.google.com/speed/pagespeed/insights/).
