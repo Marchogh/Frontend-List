@@ -9,7 +9,7 @@
 - :computer: [Online Tools](#online-tools)
 - :floppy_disk: [Website Performance](#website-performance)
 - :wrench: [SEO](#seo)
-- :books: [Inspiration / Blogs ](#inspiration&blogs)
+- :books: [Inspiration / Blogs ](#inspiration)
 - :mortar_board: [Learn](#learn)
 - :microphone: [Podcasts](#podcasts) 
 
@@ -51,7 +51,7 @@
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist).
 - [Guide to <head> elements](https://gethead.info/).
 - [Check if the site is responsive & and take pictures](http://ami.responsivedesign.is/#).
-- [Collection of useful CSS snippets ](https://atomiks.github.io/30-seconds-of-css/#dynamic-shadow)
+- [Collection of useful CSS snippets](https://atomiks.github.io/30-seconds-of-css/#dynamic-shadow)
 
 
 ## Website Performance 
@@ -67,7 +67,7 @@
  - [Vary SEO Tool](https://varvy.com/).
  - [SEO site checkup](https://seositecheckup.com). 
 
-## Inspiration&Blogs 
+## Inspiration / Blogs 
 - [Html templates](https://www.makeuseof.com/tag/css-template-sites-dont-start-scratch/).
 - [web font combinations](http://typespiration.com/).
 - [Font Pair helps you pair Google Fonts together](https://fontpair.co/).
