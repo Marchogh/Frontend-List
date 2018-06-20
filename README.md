@@ -68,8 +68,8 @@
  - [SEO site checkup](https://seositecheckup.com). 
 
 ## Inspiration / Blogs 
-- [Html templates](https://www.makeuseof.com/tag/css-template-sites-dont-start-scratch/).
-- [web font combinations](http://typespiration.com/).
+- [HTML templates - Article to multiple sites](https://www.makeuseof.com/tag/css-template-sites-dont-start-scratch/).
+- [Web Font Combinations](http://typespiration.com/).
 - [Font Pair helps you pair Google Fonts together](https://fontpair.co/).
 - [Social development environment](https://codepen.io/).
 - [CSS web trends](https://tympanus.net/codrops/).
@@ -82,7 +82,7 @@
 ## Learn 
 
 #### Resources
-- [Github student pack](https://education.github.com/pack/offers).
+- [Github Student Pack](https://education.github.com/pack/offers).
 - [Eloquent JavaScript - Book](http://eloquentjavascript.net/).
 - [Front-End Developer Handbook 2018](https://legacy.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details
 ).
