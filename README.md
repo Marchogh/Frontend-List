@@ -9,7 +9,7 @@
 - :computer: [Online Tools](#online-tools)
 - :floppy_disk: [Website Performance](#website-performance)
 - :wrench: [SEO](#seo)
-- :books: [Inspiration / Blogs ](#inspiration)
+- :books: [Inspiration / Blogs ](#inspiration&blogs)
 - :mortar_board: [Learn](#learn)
 - :microphone: [Podcasts](#podcasts) 
 
@@ -66,7 +66,7 @@
  - [Vary SEO Tool](https://varvy.com/).
  - [SEO site checkup](https://seositecheckup.com). 
 
-## Inspiration / Blogs 
+## Inspiration&Blogs 
 - [Html templates](https://www.makeuseof.com/tag/css-template-sites-dont-start-scratch/).
 - [web font combinations](http://typespiration.com/).
 - [Font Pair helps you pair Google Fonts together](https://fontpair.co/).
