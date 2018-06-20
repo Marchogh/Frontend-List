@@ -6,10 +6,10 @@
 ## Contents
 
 - :diamonds: [Design](#design)
-- :computer: [Online Tools](#online-Tools)
+- :computer: [Online Tools](#online-tools)
 - :floppy_disk: [Website Performance](#website-performance)
 - :wrench: [SEO](#seo)
-- :books: [Inspiration / Blogs ](#inspiration-/-blogs)
+- :books: [Inspiration / Blogs ](#inspiration-blogs)
 - :mortar_board: [Learn](#learn)
 - :microphone: [Podcasts](#podcasts) 
 
