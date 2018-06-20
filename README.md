@@ -1,4 +1,7 @@
-# Frontend-List
+<h1 align="center">
+    Frontend-List
+</h1>
+<hr/>
 
 ## Contents
 
