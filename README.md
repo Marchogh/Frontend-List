@@ -5,12 +5,12 @@
 
 ## Contents
 
-- [Design](#design)
-- [Online Tools](#online-Tools)
-- [Website Performance](#website-performance)
-- [SEO](#seo)
+- :diamonds: [Design](#design)
+- :globe_with_meridians: [Online Tools](#online-Tools)
+- :floppy_disk: [Website Performance](#website-performance)
+- :wrench: [SEO](#seo)
 - [Inspiration / Blogs ](#inspiration/blogs)
-- [Learn](#learn)
+- :books: [Learn](#learn)
 - :microphone: [Podcasts](#podcasts) 
 
 
