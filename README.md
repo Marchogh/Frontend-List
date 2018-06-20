@@ -6,12 +6,12 @@
 ## Contents
 
 - [Design](#design)
-- [Online Tools](#Online Tools)
-- [Website Performance](#sass)
-- [SEO](#js)
-- [Inspiration / Blogs ](#css-js)
-- [Learn](#icons-svg)
-- [Podcasts](#ux-design)
+- [Online Tools](#Online-Tools)
+- [Website Performance](#Website-Performance)
+- [SEO](#SEO)
+- [Inspiration / Blogs ](#Inspiration / Blogs)
+- [Learn](#Learn)
+- [Podcasts](#Podcasts)
 
 
 ## Design
