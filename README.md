@@ -26,6 +26,8 @@
 - [Icons pack - Iconfinder](https://www.iconfinder.com/icon-sets/featured/free).
 - [Icons - Flaticon](https://www.flaticon.com/).
 - [Icon - Library](https://fontawesome.com/).
+- [Simple SVG Icons(https://simplesvg.com/).
+- [Illustrations - UnDraw(https://undraw.co/illustrations).
 
 ## Online Tools
 - [CSS Gradient](https://cssgradient.io/).
