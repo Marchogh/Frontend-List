@@ -12,7 +12,7 @@
 - :books: [Inspiration / Blogs ](#inspiration)
 - :mortar_board: [Learn](#learn)
 - :microphone: [Podcasts](#podcasts) 
-- :statue_of_liberty: [Podcasts](#libraries) 
+- :statue_of_liberty: [Libraries](#libraries) 
 
 
 ## Design
