@@ -50,6 +50,7 @@
 - [CSS Animations - Animista](http://animista.net/).
 - [CSS Animations - AngryTools](http://angrytools.com/css/animation/).
 - [SVG Animations](https://www.svgator.com/).
+- [CSS Cliph Path Maker](https://bennettfeely.com/clippy/).
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist).
 - [Guide to <head> elements](https://gethead.info/).
 - [Check if the site is responsive & and take pictures](http://ami.responsivedesign.is/#).
