@@ -71,7 +71,7 @@
  - [Vary SEO Tool](https://varvy.com/).
  - [SEO site checkup](https://seositecheckup.com). 
 
-## Inspiration / Blogs 
+## Inspiration 
 - [HTML templates - Article to multiple sites](https://www.makeuseof.com/tag/css-template-sites-dont-start-scratch/).
 - [Web Font Combinations](http://typespiration.com/).
 - [Font Pair helps you pair Google Fonts together](https://fontpair.co/).
@@ -81,6 +81,8 @@
 - [Good UI](https://goodui.org/).
 - [Good Web Designs](http://www.goodweb.design/).
 - [Creative Portfolio Websites](https://github.com/iRaul/awesome-portfolios).
+- [Best Google Web Fonts](https://www.awwwards.com/20-best-web-fonts-from-google-web-fonts-and-font-face.html).
+
 
 
 ## Learn 
