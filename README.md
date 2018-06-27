@@ -79,9 +79,11 @@
 - [CSS web trends](https://tympanus.net/codrops/).
 - [Design inspiration - Dribble](https://dribbble.com/).
 - [Good UI](https://goodui.org/).
+- [Web & UI Design Inspirations](http://inspiredesign.me/).
 - [Good Web Designs](http://www.goodweb.design/).
 - [Creative Portfolio Websites](https://github.com/iRaul/awesome-portfolios).
 - [Best Google Web Fonts](https://www.awwwards.com/20-best-web-fonts-from-google-web-fonts-and-font-face.html).
+
 
 
 
