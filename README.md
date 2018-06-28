@@ -116,7 +116,7 @@
 
 ## Podcasts  
 - [Podcast for Web Developers - Syntax.fm](https://syntax.fm/).
-- [ShopTalk - Front end web design, development and UX ](https://player.fm/series/shoptalk-19036).https://player.fm/series/shoptalk-19036
+- [ShopTalk - Front end web design, development and UX ](https://player.fm/series/shoptalk-19036).
 - [TheWebAHead - Jen Simmons](http://thewebahead.net/).
 - [List of Web Development Podcasts](https://player.fm/featured/web-development).
 - [Boagworld UX Show](https://boagworld.com/show/).
