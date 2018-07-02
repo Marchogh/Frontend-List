@@ -131,6 +131,7 @@
 - [Powered Hover Effects - CSS](http://ianlunn.github.io/Hover/).
 - [CSS Animate - CSS](https://daneden.github.io/animate.css/).
 - [CSS Reset - CSS](http://necolas.github.io/normalize.css/).
+- [Lazy loader for images](https://github.com/aFarkas/lazysizes).
 
 
 
