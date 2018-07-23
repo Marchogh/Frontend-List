@@ -59,6 +59,7 @@
 
 
 ## Website Performance 
+- [Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist).
 - [Google Pagespeed](https://developers.google.com/speed/pagespeed/insights/).
 - [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/).
 - [Gzip compression test](https://varvy.com/tools/gzip/).
