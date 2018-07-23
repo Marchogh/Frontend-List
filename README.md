@@ -29,6 +29,8 @@
 - [Pexels](https://www.pexels.com/).
 - [Stocksnap](https://stocksnap.io/).
 - [Video covers](https://coverr.co/).
+- [Collection of free stock photos websites.](https://www.reddit.com/r/web_design/comments/8ssk1i/repost_ultimate_collection_of_free_stock_photos/?st=jjysfnd2&sh=85943f7d).
+
 
 #### Mockups 
 - [Mockupworld Animated](https://www.mockupworld.co/free/tag/animated/).
