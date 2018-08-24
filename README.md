@@ -47,6 +47,7 @@
 - [Simple SVG Icons](https://simplesvg.com/).
 - [Illustrations - UnDraw](https://undraw.co/illustrations).
 - [Illustrations - Lukaszadam](https://lukaszadam.com/illustrations).
+- [Flaticon Pattern maker](https://pattern.flaticon.com/) 
 
 ## Online Tools
 - [CSS Gradient](https://cssgradient.io/).
@@ -59,7 +60,6 @@
 - [Guide to <head> elements](https://gethead.info/).
 - [Check if the site is responsive & and take pictures](http://ami.responsivedesign.is/#).
 - [Collection of useful CSS snippets](https://atomiks.github.io/30-seconds-of-css/#dynamic-shadow)
-- [Flaticon Pattern maker](https://pattern.flaticon.com/) 
 
 
 ## Website Performance 
