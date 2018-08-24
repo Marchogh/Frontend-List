@@ -74,12 +74,12 @@
 
 ## SEO 
  - [Vary SEO Tool](https://varvy.com/).
- - [SEO site checkup](https://seositecheckup.com). 
  - [Mobile friendly test](https://search.google.com/test/mobile-friendly?hl=da). 
  - [Rich snippets test](https://search.google.com/structured-data/testing-tool/u/0/?hl=da). 
  - [SSL Checker](https://www.sslshopper.com/ssl-checker.html). 
  - [Cloaking Checker](http://www.seotools.com/seo-cloaking-checker/). 
  - [Duplicate Content](http://www.siteliner.com/). 
+ - [SEO site checkup](https://seositecheckup.com). 
 
 ## Inspiration 
 - [HTML templates - Article to multiple sites](https://www.makeuseof.com/tag/css-template-sites-dont-start-scratch/).
