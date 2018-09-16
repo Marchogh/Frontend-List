@@ -60,6 +60,7 @@
 - [Guide to <head> elements](https://gethead.info/).
 - [Check if the site is responsive & and take pictures](http://ami.responsivedesign.is/#).
 - [Collection of useful CSS snippets](https://atomiks.github.io/30-seconds-of-css/#dynamic-shadow)
+- [Minimal css reset](https://alligator.io/css/minimal-css-reset/)
 
 
 ## Website Performance 
