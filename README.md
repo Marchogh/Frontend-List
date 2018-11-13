@@ -136,7 +136,7 @@
 
 ## Libraries
 
-- [Easy Scroll Animations - JS](https://github.com/jlmakes/scrollreveal).
+- [Animate on scroll library](https://github.com/michalsnik/aos).
 - [Upload Library - JS](https://github.com/pqina/filepond).
 - [Drive the user's focus across the page - JS](https://github.com/kamranahmedse/driver.js).
 - [Powered Hover Effects - CSS](http://ianlunn.github.io/Hover/).
