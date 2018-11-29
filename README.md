@@ -144,6 +144,8 @@
 - [CSS Reset - CSS](http://necolas.github.io/normalize.css/).
 - [Lazy loader for images](https://github.com/aFarkas/lazysizes).
 - [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/).
+- [Parallax scrolling](https://basicscroll.electerious.com/).
+
 
 
 
