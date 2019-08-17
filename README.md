@@ -106,8 +106,6 @@
 #### Resources
 - [Github Student Pack](https://education.github.com/pack/offers).
 - [Eloquent JavaScript - Book](http://eloquentjavascript.net/).
-- [Front-End Developer Handbook 2018](https://legacy.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details
-).
 - [Video Screencasts Watch & Learn - CSS Tricks](https://css-tricks.com/video-screencasts/).
 
 #### News / Blog
