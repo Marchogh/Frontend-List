@@ -54,6 +54,7 @@
 - [CSS Animations - Animista](http://animista.net/).
 - [CSS Animations - AngryTools](http://angrytools.com/css/animation/).
 - [CSS Interesting stats on stylesheets.](https://cssstats.com/).
+- [SVG Waves](https://getwaves.io/).
 - [SVG Animations](https://www.svgator.com/).
 - [CSS Clip Path Maker](https://bennettfeely.com/clippy/).
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist).
