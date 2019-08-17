@@ -127,9 +127,9 @@
 - [Style Guide Resources](http://styleguides.io/).
 
 ## Podcasts  
-- [Podcast for Web Developers - Syntax.fm](https://syntax.fm/).
+- [Syntax.fm](https://syntax.fm/).
 - [Changelog](https://changelog.com/podcasts).
-- [ShopTalk - Front end web design, development and UX ](https://player.fm/series/shoptalk-19036).
+- [ShopTalk](https://player.fm/series/shoptalk-19036).
 - [List of Web Development Podcasts](https://player.fm/featured/web-development).
 - [Boagworld UX Show](https://boagworld.com/show/).
 - [CodePen Radio](https://blog.codepen.io/radio/).
