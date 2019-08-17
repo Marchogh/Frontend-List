@@ -72,7 +72,7 @@
 - [Vary Pagespeed](https://varvy.com/pagespeed/).
 - [Pingdom Speed test](https://tools.pingdom.com/).
 - [Compress images - Compressor.io](https://compressor.io/).
-- [Compress images - Tinypng](https://tinypng.com/).
+- [Compress images - Squoosh](https://squoosh.app/).
 
 ## SEO 
  - [Vary SEO Tool](https://varvy.com/).
